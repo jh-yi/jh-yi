@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on Vision language models. 
+
 <!--
 **jh-yi/jh-yi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
